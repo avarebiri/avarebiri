@@ -7,7 +7,7 @@
 ### `AI / LLM Engineer` · `Bilgisayar Mühendisi`
 
 Yapay zeka sistemleri tasarlıyor ve ölçekliyorum — LLM entegrasyonları,<br>
-RAG mimarileri ve NLP pipeline'ları üzerine çalışan bir mühendisim.
+MCP&RAG mimarileri ve NLP pipeline'ları üzerine çalışan bir mühendisim.
 
 <br>
 
@@ -21,7 +21,7 @@ RAG mimarileri ve NLP pipeline'ları üzerine çalışan bir mühendisim.
 
 ## Hakkımda
 
-Yapay zeka sistemleri geliştirmeye odaklanan bir bilgisayar mühendisiyim. Python ekosisteminde üretim ortamına **LLM entegrasyonları**, **RAG tabanlı bilgi erişim mimarileri** ve **NLP pipeline'ları** taşıdım. Karmaşık sistemleri modüler ve ölçeklenebilir çözümlere dönüştürmeyi seviyorum.
+Yapay zeka sistemleri geliştirmeye odaklanan bir bilgisayar mühendisiyim. Python ekosisteminde üretim ortamına **LLM entegrasyonları**, **RAG ve MCP tabanlı bilgi erişim mimarileri** ve **NLP pipeline'ları** geliştirdim. Karmaşık sistemleri modüler ve ölçeklenebilir çözümlere dönüştürmeyi seviyorum.
 
 ```yaml
 konum:   Bursa, Türkiye
