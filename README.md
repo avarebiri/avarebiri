@@ -6,7 +6,7 @@
 
 ### `AI / LLM Engineer` · `Bilgisayar Mühendisi`
 
-Yapay zeka sistemleri tasarlıyor ve ölçekliyorum — LLM entegrasyonları,<br>
+Yapay zeka sistemleri tasarlıyor ve ölçekliyorum. LLM entegrasyonları,<br>
 MCP&RAG mimarileri ve NLP pipeline'ları üzerine çalışan bir mühendisim.
 
 <br>
@@ -115,6 +115,6 @@ durum:   Yeni projelere ve iş birliklerine açık
 
 <div align="center">
 
-<sub>💬 Yapay zeka, LLM sistemleri veya ilginç bir problem üzerine konuşmak istersen — kapım açık.</sub>
+<sub>💬 Yapay zeka, LLM sistemleri veya ilginç bir problem üzerine konuşmak istersen kapım açık.</sub>
 
 </div>
